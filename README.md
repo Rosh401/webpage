@@ -1,5 +1,4 @@
 # webpage
-<!DOCTYPE html>
 <html>
 <head>
   <title>Mini Cake Shop</title>
