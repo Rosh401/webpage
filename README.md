@@ -1,4 +1,3 @@
-# webpage
 <html>
 <head>
   <title>Mini Cake Shop</title>
